@@ -29,6 +29,14 @@
         "header": []
       },
       "response": []
+    },
+    {
+      "name": "Analyze Profile",
+      "request": {
+        "method": "GET",
+        "header": []
+      },
+      "response": []
     }
   ]
 }
