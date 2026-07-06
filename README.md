@@ -1,6 +1,23 @@
 # 🚀 GitHub Profile Analyzer API
 
+
 A production-ready REST API built with **Node.js**, **Express.js**, **TypeScript**, **Drizzle ORM**, and **MySQL** that analyzes GitHub user profiles using the GitHub Public API and stores valuable insights in a MySQL database.
+
+## 🌐 Live API
+
+Base URL:
+
+```text
+https://github-profile-analyzer-3jbr.onrender.com/
+```
+
+### Health Check
+
+GET
+
+```text
+https://github-profile-analyzer-3jbr.onrender.com/health
+```
 
 ---
 
